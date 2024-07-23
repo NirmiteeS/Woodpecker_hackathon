@@ -22,14 +22,16 @@ def initialize_chatbot():
                             The products table contains information about the products offered by the companies. It includes columns like `product`, `series`, and `sales_price`.
                             The sales_pipeline table tracks sales opportunities. It includes columns like `opportunity_id`, `sales_agent`, `product`, `accounts` (company name), `deal_stage`, `engage_date`, `close_date`, and `close_value`.
                             The sales_teams table contains information about sales agents, their managers, and their regional offices. It includes columns like `sales_agent`, `manager`, and `regional_office`.
-
+                            
                             Key Points:
                             - The `accounts` column in the accounts table represents the company name.
                             - The `revenue` column in the accounts table indicates the annual revenue of the company.
                             - To find the most profitable company for a specific year, look at the `revenue` column for that year.
                             - The sales_pipeline table can be used to track sales activities and their outcomes.
                             - The sales_teams table provides details about sales agents and their managerial hierarchy.
-                            Convert the final sql output to natural language. """),
+                            
+                            If table is asked display the sql output in table format.                            
+                            Otherwise display the final sql output in natural language."""),
             ("user", "{question}\\n ai: ")
         ]
     )
