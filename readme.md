@@ -29,7 +29,7 @@ Follow these steps to set up and run the CRM Database Chatbot on your local mach
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/crm-database-chatbot.git
+   git clone https://github.com/NirmiteeS/Woodpecker_hackathon.git
    cd crm-database-chatbot
    ```
 
@@ -88,5 +88,9 @@ Here are some example queries you can try with the CRM Database Chatbot:
    Terminal
    ![Terminal](output_samples/table_terminal.png)
 
+### CRM Database Link : 
+ - CRM Sales Opportunities database from https://mavenanalytics.io/data-playground
 
+### Github Repository Link : 
+ - https://github.com/NirmiteeS/Woodpecker_hackathon
 
