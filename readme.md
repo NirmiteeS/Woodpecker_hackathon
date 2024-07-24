@@ -56,10 +56,6 @@ To start the chatbot application, follow these steps:
    - **Visualizations:** Request visualizations like line charts and bar graphs based on your request.
    - **Seamless Integration:** Integrate the chatbot into existing CRM systems to enhance user experience.
 
-  
-
-
-
 ### Example Queries
 
 Here are some example queries you can try with the CRM Database Chatbot:
