@@ -95,6 +95,6 @@ Here are some example queries you can try with the CRM Database Chatbot:
  - https://github.com/NirmiteeS/Woodpecker_hackathon
 
 ### Team Project Cotributors : 
- - [**Shreya Rathod**](https://chatgpt.com/)
- - [**Riva Rodrigues**](https://linkedin.com/in/shreya-rathod)
- - [**Nirmitee Sarode**](https://linkedin.com/in/shreya-rathod)
+ - [**Shreya Rathod**](https://github.com/shreyarathod)
+ - [**Riva Rodrigues**](https://github.com/Riva-Rodrigues)
+ - [**Nirmitee Sarode**](https://github.com/NirmiteeS)
