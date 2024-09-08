@@ -90,10 +90,7 @@ Here are some example queries you can try with the CRM Database Chatbot:
 
 ### CRM Database Link : 
  - CRM Sales Opportunities database from https://mavenanalytics.io/data-playground
-
-### Github Repository Link : 
- - https://github.com/NirmiteeS/Woodpecker_hackathon
-
+   
 ### Team Project Cotributors : 
  - [**Shreya Rathod**](https://github.com/shreyarathod)
  - [**Riva Rodrigues**](https://github.com/Riva-Rodrigues)
